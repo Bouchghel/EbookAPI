@@ -1,0 +1,11 @@
+# .NET Core (backend)
+backend/bin/
+backend/MonBackend/obj/
+
+# Angular (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/tmp/
+frontend/.angular/
+
+

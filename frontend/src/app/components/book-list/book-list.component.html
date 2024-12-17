@@ -1,0 +1,69 @@
+<!-- src/app/components/book-list/book-list.component.html -->
+<div class="container">
+  <nav class="navbar navbar-light bg-light">
+    <a class="navbar-brand" href="#">
+      <img src="assets/logo.png" alt="Logo" width="30" height="30" class="d-inline-block align-top">
+      My Book App
+    </a>
+      <input
+        type="text"
+        class="form-control"
+        placeholder="Search books"
+        [(ngModel)]="searchTerm"
+        (input)="onSearchChange($event)"
+        (keyup.enter)="searchBooks()" />
+      <button class="btn btn-primary" (click)="searchBooks()">Search</button>
+
+  </nav>
+
+  <h2 class="mt-4">Books List</h2>
+
+  <div *ngIf="errorMessage" class="alert alert-danger">{{ errorMessage }}</div>
+
+  <table class="table table-striped mt-3">
+    <thead>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Description</th>
+      <th>Image</th>
+      <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let book of books">
+      <td>{{ book.title }}</td>
+      <td>{{ book.author }}</td>
+      <td>{{ book.description }}</td>
+      <td><img *ngIf="book.imageCover" [src]="book.imageCover" alt="{{ book.title }}" width="50"></td>
+      <td>
+        <button class="btn btn-warning" (click)="editBook(book)">Edit</button>
+        <button class="btn btn-danger" (click)="deleteBook(book.id)">Delete</button>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+
+  <h3>Add New Book</h3>
+  <form (ngSubmit)="addBook()">
+    <div class="form-group">
+      <label for="title">Title</label>
+      <input type="text" class="form-control" id="title" [(ngModel)]="newBook.title" name="title" required>
+    </div>
+    <div class="form-group">
+      <label for="author">Author</label>
+      <input type="text" class="form-control" id="author" [(ngModel)]="newBook.author" name="author" required>
+    </div>
+    <div class="form-group">
+      <label for="description">Description</label>
+      <textarea class="form-control" id="description" [(ngModel)]="newBook.description" name="description"></textarea>
+    </div>
+    <div class="form-group">
+      <label for="imageCover">Image Cover</label>
+      <input type="file" class="form-control" id="imageCover" (change)="onImageSelect($event)" name="imageCover">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Book</button>
+  </form>
+</div>
+

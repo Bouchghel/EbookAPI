@@ -1,0 +1,101 @@
+<div class="container mt-5">
+  <div class="card shadow-sm">
+    <div class="card-header bg-primary text-white">
+      <h3 class="mb-0">Modifier le Livre</h3>
+    </div>
+    <div class="card-body">
+      <form [formGroup]="editBookForm" (ngSubmit)="onSubmit()" enctype="multipart/form-data">
+        <!-- Titre -->
+        <div class="mb-3">
+          <label for="title" class="form-label">Titre</label>
+          <input
+            id="title"
+            type="text"
+            class="form-control"
+            formControlName="title"
+            placeholder="Entrez le titre du livre" />
+          <div
+            *ngIf="editBookForm.get('title')?.invalid && editBookForm.get('title')?.touched"
+            class="text-danger mt-1">
+            Titre requis (minimum 3 caractères).
+          </div>
+        </div>
+
+        <!-- Auteur -->
+        <div class="mb-3">
+          <label for="author" class="form-label">Auteur</label>
+          <input
+            id="author"
+            type="text"
+            class="form-control"
+            formControlName="author"
+            placeholder="Entrez le nom de l'auteur" />
+          <div
+            *ngIf="editBookForm.get('author')?.invalid && editBookForm.get('author')?.touched"
+            class="text-danger mt-1">
+            Auteur requis (minimum 3 caractères).
+          </div>
+        </div>
+
+        <!-- Description -->
+        <div class="mb-3">
+          <label for="description" class="form-label">Description</label>
+          <textarea
+            id="description"
+            rows="4"
+            class="form-control"
+            formControlName="description"
+            placeholder="Entrez la description du livre"></textarea>
+          <div
+            *ngIf="editBookForm.get('description')?.invalid && editBookForm.get('description')?.touched"
+            class="text-danger mt-1">
+            Description requise.
+          </div>
+        </div>
+
+        <!-- Image de couverture -->
+        <div class="mb-3">
+          <label for="imageCover" class="form-label">Image de couverture</label>
+          <input
+            id="imageCover"
+            type="file"
+            class="form-control"
+            (change)="onImageChange($event)"
+            accept="image/*" />
+          <div class="mt-2">
+            <!-- Affichage de l'image sélectionnée -->
+            <div *ngIf="selectedImage">
+              <p class="small text-muted">Image sélectionnée : {{ selectedImage.name }}</p>
+            </div>
+
+            <!-- Affichage de l'image actuelle si aucune image nouvelle n'est sélectionnée -->
+            <div *ngIf="book?.imageCover && !selectedImage">
+              <p class="small text-muted">Image actuelle :</p>
+              <img
+                [src]="book?.imageCover"
+                alt="Couverture actuelle"
+                class="img-thumbnail"
+                style="max-width: 150px;" />
+            </div>
+          </div>
+        </div>
+
+        <!-- Boutons -->
+        <div class="d-flex justify-content-end">
+          <button
+            type="button"
+            class="btn btn-secondary me-2"
+            (click)="onCancel()">
+            Annuler
+          </button>
+          <button
+            type="submit"
+            class="btn btn-success"
+            [disabled]="editBookForm.invalid">
+            Mettre à jour
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
