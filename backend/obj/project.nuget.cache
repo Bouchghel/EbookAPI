@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qbGxoga9HE4=",
+  "dgSpecHash": "D1z6zOfiRMM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\PLivres.csproj",
+  "projectFilePath": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\PLivres.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ISMAIL\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ISMAIL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

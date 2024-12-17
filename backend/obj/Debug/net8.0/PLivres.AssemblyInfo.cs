@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PLivres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7495c7def004ad85f6c93a86f9033e6b4f6838fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94ddb4a553029ad4933b109ade28dc35dddd4b2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PLivres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PLivres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

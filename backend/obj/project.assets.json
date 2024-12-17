@@ -5003,11 +5003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\PLivres.csproj",
+      "projectUniqueName": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\PLivres.csproj",
       "projectName": "PLivres",
-      "projectPath": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\PLivres.csproj",
+      "projectPath": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\PLivres.csproj",
       "packagesPath": "C:\\Users\\ISMAIL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\obj\\",
+      "outputPath": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using PLivres.Data;
-using AutoMapper;
 using Microsoft.OpenApi.Models;
+using PLivres.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,11 +9,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<BookContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Ajouter AutoMapper
-builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
-// Enregistrer IBookMappingService
+// Enregistrer IBookMappingService,IBookService et FileService
 builder.Services.AddScoped<IBookMappingService, BookMappingService>();
+builder.Services.AddScoped<IBookService, BookService>();
+builder.Services.AddScoped<FileService>();
+
 
 // Ajouter les services pour les contrôleurs
 builder.Services.AddControllers();
@@ -27,7 +27,7 @@ builder.Services.AddSwaggerGen(options =>
     // Autres configurations Swagger
 });
 
-// Ajouter CORS (si nécessaire pour un frontend)
+// Ajouter CORS 
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
@@ -39,6 +39,9 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+
+// Servir les fichiers statiques (pour les fichiers uploadés)
+app.UseStaticFiles();
 
 // Configure le pipeline des requêtes HTTP
 if (app.Environment.IsDevelopment())
@@ -53,8 +56,6 @@ app.UseHttpsRedirection();
 // Activer CORS
 app.UseCors("AllowAll");
 
-// Servir les fichiers statiques (pour les fichiers uploadés)
-app.UseStaticFiles();
 
 app.UseAuthorization();
 

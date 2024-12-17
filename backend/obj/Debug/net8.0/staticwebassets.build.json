@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5wzN3C1ZMeiOb7QjpjQNiI2VTdjHKiiTbA7y8C3m+Bs=",
+  "Hash": "un/wVkIZpkfnzFGK1ol9mqgCFkcQiTZ82o+3X9+mKj0=",
   "Source": "PLivres",
   "BasePath": "_content/PLivres",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PLivres\\wwwroot",
       "Source": "PLivres",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\0242e770-a673-4f9d-b6c7-61f0a642c58f.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\0242e770-a673-4f9d-b6c7-61f0a642c58f.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/0242e770-a673-4f9d-b6c7-61f0a642c58f#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\0242e770-a673-4f9d-b6c7-61f0a642c58f.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\0ca1b614-aca8-4f44-8bd6-09c518ead6ab.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\0ca1b614-aca8-4f44-8bd6-09c518ead6ab.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/0ca1b614-aca8-4f44-8bd6-09c518ead6ab#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\0ca1b614-aca8-4f44-8bd6-09c518ead6ab.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\1066e625-0c3e-4a9e-b02c-35c904fea489.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\1066e625-0c3e-4a9e-b02c-35c904fea489.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/1066e625-0c3e-4a9e-b02c-35c904fea489#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,52 @@
       "OriginalItemSpec": "wwwroot\\uploads\\1066e625-0c3e-4a9e-b02c-35c904fea489.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\1c9b893e-36a5-4d13-b154-777da405c2fd.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\13e4c18e-5d83-47e9-a716-716042d026b1.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/13e4c18e-5d83-47e9-a716-716042d026b1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e9bot3ompv",
+      "Integrity": "AnjQYwzuHvBJrdzEZeu6WJFVZaRb24kKx6x4R5gN1GQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\13e4c18e-5d83-47e9-a716-716042d026b1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\175e192b-301b-4f78-803c-1c2dc63ffa5c.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/175e192b-301b-4f78-803c-1c2dc63ffa5c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w53l1rs2zw",
+      "Integrity": "vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\175e192b-301b-4f78-803c-1c2dc63ffa5c.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\1c9b893e-36a5-4d13-b154-777da405c2fd.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/1c9b893e-36a5-4d13-b154-777da405c2fd#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -101,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\1c9b893e-36a5-4d13-b154-777da405c2fd.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\25b1f69e-78ea-4369-8cfe-a341e3035e7e.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\25b1f69e-78ea-4369-8cfe-a341e3035e7e.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/25b1f69e-78ea-4369-8cfe-a341e3035e7e#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +164,31 @@
       "OriginalItemSpec": "wwwroot\\uploads\\25b1f69e-78ea-4369-8cfe-a341e3035e7e.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\2b1b987f-b9c8-4d6e-9120-332ef1a7415d.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\2a17ba9e-0a9b-464a-aef4-eaf67906bee5.jpeg",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/2a17ba9e-0a9b-464a-aef4-eaf67906bee5#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wr6uo0q7jm",
+      "Integrity": "zPXy+3gxmyIoTZSfGFiWRXbMn32SATX3l62ACeggpSM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2a17ba9e-0a9b-464a-aef4-eaf67906bee5.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\2b1b987f-b9c8-4d6e-9120-332ef1a7415d.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/2b1b987f-b9c8-4d6e-9120-332ef1a7415d#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\2b1b987f-b9c8-4d6e-9120-332ef1a7415d.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\2e7ef628-9e26-4a45-8aea-db4d4286c900.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\2e7ef628-9e26-4a45-8aea-db4d4286c900.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/2e7ef628-9e26-4a45-8aea-db4d4286c900#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +227,31 @@
       "OriginalItemSpec": "wwwroot\\uploads\\2e7ef628-9e26-4a45-8aea-db4d4286c900.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\3e9a22ef-e85c-49f3-98c2-9dda272a137c.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\3980cbb5-cc85-470d-a865-06ac1c22013e.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/3980cbb5-cc85-470d-a865-06ac1c22013e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e9bot3ompv",
+      "Integrity": "AnjQYwzuHvBJrdzEZeu6WJFVZaRb24kKx6x4R5gN1GQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3980cbb5-cc85-470d-a865-06ac1c22013e.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\3e9a22ef-e85c-49f3-98c2-9dda272a137c.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/3e9a22ef-e85c-49f3-98c2-9dda272a137c#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +269,31 @@
       "OriginalItemSpec": "wwwroot\\uploads\\3e9a22ef-e85c-49f3-98c2-9dda272a137c.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\4ced502f-9ca6-49f7-94ca-d7cbd2a52bad.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\4a96baec-1858-414f-a602-e064c7c15bc2.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/4a96baec-1858-414f-a602-e064c7c15bc2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w53l1rs2zw",
+      "Integrity": "vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4a96baec-1858-414f-a602-e064c7c15bc2.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\4ced502f-9ca6-49f7-94ca-d7cbd2a52bad.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/4ced502f-9ca6-49f7-94ca-d7cbd2a52bad#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\4ced502f-9ca6-49f7-94ca-d7cbd2a52bad.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\51174daf-e93e-4bfc-8cdd-08d00f3e9612.jpeg",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\51174daf-e93e-4bfc-8cdd-08d00f3e9612.jpeg",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/51174daf-e93e-4bfc-8cdd-08d00f3e9612#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -227,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\51174daf-e93e-4bfc-8cdd-08d00f3e9612.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\529149ca-e656-499e-a39d-fc9afd9041a1.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\529149ca-e656-499e-a39d-fc9afd9041a1.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/529149ca-e656-499e-a39d-fc9afd9041a1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\529149ca-e656-499e-a39d-fc9afd9041a1.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\55d83a4f-6aa5-4a50-8b71-961bf8701b95.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\55d83a4f-6aa5-4a50-8b71-961bf8701b95.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/55d83a4f-6aa5-4a50-8b71-961bf8701b95#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\55d83a4f-6aa5-4a50-8b71-961bf8701b95.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\575e1446-7bf0-454c-99b6-b039c94789f4.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\575e1446-7bf0-454c-99b6-b039c94789f4.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/575e1446-7bf0-454c-99b6-b039c94789f4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\575e1446-7bf0-454c-99b6-b039c94789f4.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\5a0bfb41-5e28-4767-9fe5-f0b4d86d073c.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\5a0bfb41-5e28-4767-9fe5-f0b4d86d073c.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/5a0bfb41-5e28-4767-9fe5-f0b4d86d073c#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +416,31 @@
       "OriginalItemSpec": "wwwroot\\uploads\\5a0bfb41-5e28-4767-9fe5-f0b4d86d073c.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\662b3f62-64fd-4a8d-9d02-1b58203505f8.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\61c07e1e-7694-4a25-ac14-a5c4b832108a.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/61c07e1e-7694-4a25-ac14-a5c4b832108a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y9n59rlvwd",
+      "Integrity": "6vXbJj6ndpeqfN1iHIjAdFNVF5uYwlg6zo34t1bybEo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\61c07e1e-7694-4a25-ac14-a5c4b832108a.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\662b3f62-64fd-4a8d-9d02-1b58203505f8.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/662b3f62-64fd-4a8d-9d02-1b58203505f8#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\662b3f62-64fd-4a8d-9d02-1b58203505f8.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\7125cdb3-ad34-4110-be61-4684230c4463.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\7125cdb3-ad34-4110-be61-4684230c4463.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/7125cdb3-ad34-4110-be61-4684230c4463#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\7125cdb3-ad34-4110-be61-4684230c4463.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\726b97ef-150c-4a17-828e-6bca3f129cfb.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\726b97ef-150c-4a17-828e-6bca3f129cfb.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/726b97ef-150c-4a17-828e-6bca3f129cfb#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\726b97ef-150c-4a17-828e-6bca3f129cfb.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\7b2dbcbc-e2b8-4346-b667-9703d5922141.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\7b2dbcbc-e2b8-4346-b667-9703d5922141.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/7b2dbcbc-e2b8-4346-b667-9703d5922141#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -395,10 +521,31 @@
       "OriginalItemSpec": "wwwroot\\uploads\\7b2dbcbc-e2b8-4346-b667-9703d5922141.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\933640aa-a575-487f-81ca-68a4ec4d5be0.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\91a9a777-e773-42cc-b069-b2d00a99d2d0.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/91a9a777-e773-42cc-b069-b2d00a99d2d0#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w53l1rs2zw",
+      "Integrity": "vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\91a9a777-e773-42cc-b069-b2d00a99d2d0.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\933640aa-a575-487f-81ca-68a4ec4d5be0.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/933640aa-a575-487f-81ca-68a4ec4d5be0#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -416,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\933640aa-a575-487f-81ca-68a4ec4d5be0.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\a4d91727-f1fa-449c-ac52-40ac6acd1de8.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\a4d91727-f1fa-449c-ac52-40ac6acd1de8.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/a4d91727-f1fa-449c-ac52-40ac6acd1de8#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -437,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\a4d91727-f1fa-449c-ac52-40ac6acd1de8.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\aaa3c66b-9c2b-409e-ba8a-13fa267e612d.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\aaa3c66b-9c2b-409e-ba8a-13fa267e612d.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/aaa3c66b-9c2b-409e-ba8a-13fa267e612d#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -458,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\aaa3c66b-9c2b-409e-ba8a-13fa267e612d.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\be5d1635-7f7e-4f46-b652-67b0b844d8d3.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\be5d1635-7f7e-4f46-b652-67b0b844d8d3.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/be5d1635-7f7e-4f46-b652-67b0b844d8d3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -479,10 +626,73 @@
       "OriginalItemSpec": "wwwroot\\uploads\\be5d1635-7f7e-4f46-b652-67b0b844d8d3.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\cbb9d1e4-e2b5-4b99-90e5-5cf2d6200a39.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\c544ac82-aa65-40ee-bdcd-2baf9bb3fee6.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/c544ac82-aa65-40ee-bdcd-2baf9bb3fee6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w53l1rs2zw",
+      "Integrity": "vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c544ac82-aa65-40ee-bdcd-2baf9bb3fee6.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\c5f45446-5157-4c67-8223-b1a3c5c895d7.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/c5f45446-5157-4c67-8223-b1a3c5c895d7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w53l1rs2zw",
+      "Integrity": "vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c5f45446-5157-4c67-8223-b1a3c5c895d7.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\ca3d440b-d770-40cb-85ee-c8debcb2a2ef.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/ca3d440b-d770-40cb-85ee-c8debcb2a2ef#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5u8kevkjm0",
+      "Integrity": "vRMxphtJUA5ptNzSR7PfFWfLGQL+ae6TiWnB9iBN1Rw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ca3d440b-d770-40cb-85ee-c8debcb2a2ef.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\cbb9d1e4-e2b5-4b99-90e5-5cf2d6200a39.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/cbb9d1e4-e2b5-4b99-90e5-5cf2d6200a39#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -500,10 +710,31 @@
       "OriginalItemSpec": "wwwroot\\uploads\\cbb9d1e4-e2b5-4b99-90e5-5cf2d6200a39.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\d16a8b51-0444-43d2-8fd2-ada9ccfb3f95.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d085c5ab-32df-4a99-a8bc-9d60fc32e8d1.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/d085c5ab-32df-4a99-a8bc-9d60fc32e8d1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "37t61fur9r",
+      "Integrity": "sUm4d/LdbUzz4PPcJt8VOK+dOXoie1qyvNfP5AsciYI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d085c5ab-32df-4a99-a8bc-9d60fc32e8d1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d16a8b51-0444-43d2-8fd2-ada9ccfb3f95.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/d16a8b51-0444-43d2-8fd2-ada9ccfb3f95#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -521,10 +752,31 @@
       "OriginalItemSpec": "wwwroot\\uploads\\d16a8b51-0444-43d2-8fd2-ada9ccfb3f95.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\d9a8826f-e169-47f6-8efb-38dac993d08c.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d52614b5-85d9-4e5d-aeea-1b6d358cfe1f.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
+      "BasePath": "_content/PLivres",
+      "RelativePath": "uploads/d52614b5-85d9-4e5d-aeea-1b6d358cfe1f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w53l1rs2zw",
+      "Integrity": "vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d52614b5-85d9-4e5d-aeea-1b6d358cfe1f.png"
+    },
+    {
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d9a8826f-e169-47f6-8efb-38dac993d08c.png",
+      "SourceId": "PLivres",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/d9a8826f-e169-47f6-8efb-38dac993d08c#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -542,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\d9a8826f-e169-47f6-8efb-38dac993d08c.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\f6eebc22-c4a7-405e-8f14-2f8dafb0e409.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\f6eebc22-c4a7-405e-8f14-2f8dafb0e409.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/f6eebc22-c4a7-405e-8f14-2f8dafb0e409#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -563,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\f6eebc22-c4a7-405e-8f14-2f8dafb0e409.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\fce444e8-a8f0-44d9-8616-c88025c6e9d3.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\fce444e8-a8f0-44d9-8616-c88025c6e9d3.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/fce444e8-a8f0-44d9-8616-c88025c6e9d3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -584,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\fce444e8-a8f0-44d9-8616-c88025c6e9d3.png"
     },
     {
-      "Identity": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\fd56522f-d824-45e7-9573-e97b1d43c5b7.png",
+      "Identity": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\fd56522f-d824-45e7-9573-e97b1d43c5b7.png",
       "SourceId": "PLivres",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\",
       "BasePath": "_content/PLivres",
       "RelativePath": "uploads/fd56522f-d824-45e7-9573-e97b1d43c5b7#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -608,7 +860,7 @@
   "Endpoints": [
     {
       "Route": "uploads/0242e770-a673-4f9d-b6c7-61f0a642c58f.3d4hboxt38.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\0242e770-a673-4f9d-b6c7-61f0a642c58f.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\0242e770-a673-4f9d-b6c7-61f0a642c58f.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -653,7 +905,7 @@
     },
     {
       "Route": "uploads/0242e770-a673-4f9d-b6c7-61f0a642c58f.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\0242e770-a673-4f9d-b6c7-61f0a642c58f.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\0242e770-a673-4f9d-b6c7-61f0a642c58f.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -690,7 +942,7 @@
     },
     {
       "Route": "uploads/0ca1b614-aca8-4f44-8bd6-09c518ead6ab.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\0ca1b614-aca8-4f44-8bd6-09c518ead6ab.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\0ca1b614-aca8-4f44-8bd6-09c518ead6ab.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -727,7 +979,7 @@
     },
     {
       "Route": "uploads/0ca1b614-aca8-4f44-8bd6-09c518ead6ab.w53l1rs2zw.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\0ca1b614-aca8-4f44-8bd6-09c518ead6ab.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\0ca1b614-aca8-4f44-8bd6-09c518ead6ab.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -772,7 +1024,7 @@
     },
     {
       "Route": "uploads/1066e625-0c3e-4a9e-b02c-35c904fea489.5u8kevkjm0.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\1066e625-0c3e-4a9e-b02c-35c904fea489.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\1066e625-0c3e-4a9e-b02c-35c904fea489.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -817,7 +1069,7 @@
     },
     {
       "Route": "uploads/1066e625-0c3e-4a9e-b02c-35c904fea489.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\1066e625-0c3e-4a9e-b02c-35c904fea489.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\1066e625-0c3e-4a9e-b02c-35c904fea489.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -853,8 +1105,172 @@
       ]
     },
     {
+      "Route": "uploads/13e4c18e-5d83-47e9-a716-716042d026b1.e9bot3ompv.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\13e4c18e-5d83-47e9-a716-716042d026b1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AnjQYwzuHvBJrdzEZeu6WJFVZaRb24kKx6x4R5gN1GQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:26:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9bot3ompv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/13e4c18e-5d83-47e9-a716-716042d026b1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AnjQYwzuHvBJrdzEZeu6WJFVZaRb24kKx6x4R5gN1GQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/13e4c18e-5d83-47e9-a716-716042d026b1.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\13e4c18e-5d83-47e9-a716-716042d026b1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AnjQYwzuHvBJrdzEZeu6WJFVZaRb24kKx6x4R5gN1GQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:26:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AnjQYwzuHvBJrdzEZeu6WJFVZaRb24kKx6x4R5gN1GQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/175e192b-301b-4f78-803c-1c2dc63ffa5c.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\175e192b-301b-4f78-803c-1c2dc63ffa5c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/175e192b-301b-4f78-803c-1c2dc63ffa5c.w53l1rs2zw.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\175e192b-301b-4f78-803c-1c2dc63ffa5c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w53l1rs2zw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/175e192b-301b-4f78-803c-1c2dc63ffa5c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
       "Route": "uploads/1c9b893e-36a5-4d13-b154-777da405c2fd.e9bot3ompv.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\1c9b893e-36a5-4d13-b154-777da405c2fd.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\1c9b893e-36a5-4d13-b154-777da405c2fd.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -899,7 +1315,7 @@
     },
     {
       "Route": "uploads/1c9b893e-36a5-4d13-b154-777da405c2fd.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\1c9b893e-36a5-4d13-b154-777da405c2fd.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\1c9b893e-36a5-4d13-b154-777da405c2fd.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -936,7 +1352,7 @@
     },
     {
       "Route": "uploads/25b1f69e-78ea-4369-8cfe-a341e3035e7e.3d4hboxt38.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\25b1f69e-78ea-4369-8cfe-a341e3035e7e.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\25b1f69e-78ea-4369-8cfe-a341e3035e7e.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -981,7 +1397,7 @@
     },
     {
       "Route": "uploads/25b1f69e-78ea-4369-8cfe-a341e3035e7e.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\25b1f69e-78ea-4369-8cfe-a341e3035e7e.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\25b1f69e-78ea-4369-8cfe-a341e3035e7e.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1017,8 +1433,90 @@
       ]
     },
     {
+      "Route": "uploads/2a17ba9e-0a9b-464a-aef4-eaf67906bee5.jpeg",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\2a17ba9e-0a9b-464a-aef4-eaf67906bee5.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16739"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zPXy+3gxmyIoTZSfGFiWRXbMn32SATX3l62ACeggpSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 23:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zPXy+3gxmyIoTZSfGFiWRXbMn32SATX3l62ACeggpSM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2a17ba9e-0a9b-464a-aef4-eaf67906bee5.wr6uo0q7jm.jpeg",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\2a17ba9e-0a9b-464a-aef4-eaf67906bee5.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16739"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zPXy+3gxmyIoTZSfGFiWRXbMn32SATX3l62ACeggpSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 23:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wr6uo0q7jm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2a17ba9e-0a9b-464a-aef4-eaf67906bee5.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zPXy+3gxmyIoTZSfGFiWRXbMn32SATX3l62ACeggpSM="
+        }
+      ]
+    },
+    {
       "Route": "uploads/2b1b987f-b9c8-4d6e-9120-332ef1a7415d.oetd512ec6.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\2b1b987f-b9c8-4d6e-9120-332ef1a7415d.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\2b1b987f-b9c8-4d6e-9120-332ef1a7415d.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1063,7 +1561,7 @@
     },
     {
       "Route": "uploads/2b1b987f-b9c8-4d6e-9120-332ef1a7415d.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\2b1b987f-b9c8-4d6e-9120-332ef1a7415d.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\2b1b987f-b9c8-4d6e-9120-332ef1a7415d.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1100,7 +1598,7 @@
     },
     {
       "Route": "uploads/2e7ef628-9e26-4a45-8aea-db4d4286c900.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\2e7ef628-9e26-4a45-8aea-db4d4286c900.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\2e7ef628-9e26-4a45-8aea-db4d4286c900.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1137,7 +1635,7 @@
     },
     {
       "Route": "uploads/2e7ef628-9e26-4a45-8aea-db4d4286c900.w53l1rs2zw.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\2e7ef628-9e26-4a45-8aea-db4d4286c900.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\2e7ef628-9e26-4a45-8aea-db4d4286c900.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1181,8 +1679,90 @@
       ]
     },
     {
+      "Route": "uploads/3980cbb5-cc85-470d-a865-06ac1c22013e.e9bot3ompv.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\3980cbb5-cc85-470d-a865-06ac1c22013e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AnjQYwzuHvBJrdzEZeu6WJFVZaRb24kKx6x4R5gN1GQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:26:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9bot3ompv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3980cbb5-cc85-470d-a865-06ac1c22013e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AnjQYwzuHvBJrdzEZeu6WJFVZaRb24kKx6x4R5gN1GQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3980cbb5-cc85-470d-a865-06ac1c22013e.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\3980cbb5-cc85-470d-a865-06ac1c22013e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AnjQYwzuHvBJrdzEZeu6WJFVZaRb24kKx6x4R5gN1GQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:26:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AnjQYwzuHvBJrdzEZeu6WJFVZaRb24kKx6x4R5gN1GQ="
+        }
+      ]
+    },
+    {
       "Route": "uploads/3e9a22ef-e85c-49f3-98c2-9dda272a137c.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\3e9a22ef-e85c-49f3-98c2-9dda272a137c.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\3e9a22ef-e85c-49f3-98c2-9dda272a137c.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1219,7 +1799,7 @@
     },
     {
       "Route": "uploads/3e9a22ef-e85c-49f3-98c2-9dda272a137c.y9n59rlvwd.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\3e9a22ef-e85c-49f3-98c2-9dda272a137c.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\3e9a22ef-e85c-49f3-98c2-9dda272a137c.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1263,8 +1843,90 @@
       ]
     },
     {
+      "Route": "uploads/4a96baec-1858-414f-a602-e064c7c15bc2.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\4a96baec-1858-414f-a602-e064c7c15bc2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 23:54:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4a96baec-1858-414f-a602-e064c7c15bc2.w53l1rs2zw.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\4a96baec-1858-414f-a602-e064c7c15bc2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 23:54:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w53l1rs2zw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4a96baec-1858-414f-a602-e064c7c15bc2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
       "Route": "uploads/4ced502f-9ca6-49f7-94ca-d7cbd2a52bad.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\4ced502f-9ca6-49f7-94ca-d7cbd2a52bad.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\4ced502f-9ca6-49f7-94ca-d7cbd2a52bad.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1301,7 +1963,7 @@
     },
     {
       "Route": "uploads/4ced502f-9ca6-49f7-94ca-d7cbd2a52bad.w53l1rs2zw.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\4ced502f-9ca6-49f7-94ca-d7cbd2a52bad.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\4ced502f-9ca6-49f7-94ca-d7cbd2a52bad.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1346,7 +2008,7 @@
     },
     {
       "Route": "uploads/51174daf-e93e-4bfc-8cdd-08d00f3e9612.jpeg",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\51174daf-e93e-4bfc-8cdd-08d00f3e9612.jpeg",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\51174daf-e93e-4bfc-8cdd-08d00f3e9612.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1383,7 +2045,7 @@
     },
     {
       "Route": "uploads/51174daf-e93e-4bfc-8cdd-08d00f3e9612.wr6uo0q7jm.jpeg",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\51174daf-e93e-4bfc-8cdd-08d00f3e9612.jpeg",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\51174daf-e93e-4bfc-8cdd-08d00f3e9612.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1428,7 +2090,7 @@
     },
     {
       "Route": "uploads/529149ca-e656-499e-a39d-fc9afd9041a1.5u8kevkjm0.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\529149ca-e656-499e-a39d-fc9afd9041a1.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\529149ca-e656-499e-a39d-fc9afd9041a1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1473,7 +2135,7 @@
     },
     {
       "Route": "uploads/529149ca-e656-499e-a39d-fc9afd9041a1.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\529149ca-e656-499e-a39d-fc9afd9041a1.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\529149ca-e656-499e-a39d-fc9afd9041a1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1510,7 +2172,7 @@
     },
     {
       "Route": "uploads/55d83a4f-6aa5-4a50-8b71-961bf8701b95.5u8kevkjm0.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\55d83a4f-6aa5-4a50-8b71-961bf8701b95.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\55d83a4f-6aa5-4a50-8b71-961bf8701b95.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1555,7 +2217,7 @@
     },
     {
       "Route": "uploads/55d83a4f-6aa5-4a50-8b71-961bf8701b95.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\55d83a4f-6aa5-4a50-8b71-961bf8701b95.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\55d83a4f-6aa5-4a50-8b71-961bf8701b95.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1592,7 +2254,7 @@
     },
     {
       "Route": "uploads/575e1446-7bf0-454c-99b6-b039c94789f4.e9bot3ompv.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\575e1446-7bf0-454c-99b6-b039c94789f4.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\575e1446-7bf0-454c-99b6-b039c94789f4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1637,7 +2299,7 @@
     },
     {
       "Route": "uploads/575e1446-7bf0-454c-99b6-b039c94789f4.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\575e1446-7bf0-454c-99b6-b039c94789f4.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\575e1446-7bf0-454c-99b6-b039c94789f4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1674,7 +2336,7 @@
     },
     {
       "Route": "uploads/5a0bfb41-5e28-4767-9fe5-f0b4d86d073c.mcs04oqksd.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\5a0bfb41-5e28-4767-9fe5-f0b4d86d073c.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\5a0bfb41-5e28-4767-9fe5-f0b4d86d073c.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1719,7 +2381,7 @@
     },
     {
       "Route": "uploads/5a0bfb41-5e28-4767-9fe5-f0b4d86d073c.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\5a0bfb41-5e28-4767-9fe5-f0b4d86d073c.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\5a0bfb41-5e28-4767-9fe5-f0b4d86d073c.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1755,8 +2417,90 @@
       ]
     },
     {
+      "Route": "uploads/61c07e1e-7694-4a25-ac14-a5c4b832108a.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\61c07e1e-7694-4a25-ac14-a5c4b832108a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6vXbJj6ndpeqfN1iHIjAdFNVF5uYwlg6zo34t1bybEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 23:54:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6vXbJj6ndpeqfN1iHIjAdFNVF5uYwlg6zo34t1bybEo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/61c07e1e-7694-4a25-ac14-a5c4b832108a.y9n59rlvwd.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\61c07e1e-7694-4a25-ac14-a5c4b832108a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6vXbJj6ndpeqfN1iHIjAdFNVF5uYwlg6zo34t1bybEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 23:54:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y9n59rlvwd"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/61c07e1e-7694-4a25-ac14-a5c4b832108a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6vXbJj6ndpeqfN1iHIjAdFNVF5uYwlg6zo34t1bybEo="
+        }
+      ]
+    },
+    {
       "Route": "uploads/662b3f62-64fd-4a8d-9d02-1b58203505f8.3d4hboxt38.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\662b3f62-64fd-4a8d-9d02-1b58203505f8.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\662b3f62-64fd-4a8d-9d02-1b58203505f8.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1801,7 +2545,7 @@
     },
     {
       "Route": "uploads/662b3f62-64fd-4a8d-9d02-1b58203505f8.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\662b3f62-64fd-4a8d-9d02-1b58203505f8.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\662b3f62-64fd-4a8d-9d02-1b58203505f8.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1838,7 +2582,7 @@
     },
     {
       "Route": "uploads/7125cdb3-ad34-4110-be61-4684230c4463.3d4hboxt38.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\7125cdb3-ad34-4110-be61-4684230c4463.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\7125cdb3-ad34-4110-be61-4684230c4463.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1883,7 +2627,7 @@
     },
     {
       "Route": "uploads/7125cdb3-ad34-4110-be61-4684230c4463.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\7125cdb3-ad34-4110-be61-4684230c4463.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\7125cdb3-ad34-4110-be61-4684230c4463.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1920,7 +2664,7 @@
     },
     {
       "Route": "uploads/726b97ef-150c-4a17-828e-6bca3f129cfb.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\726b97ef-150c-4a17-828e-6bca3f129cfb.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\726b97ef-150c-4a17-828e-6bca3f129cfb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1957,7 +2701,7 @@
     },
     {
       "Route": "uploads/726b97ef-150c-4a17-828e-6bca3f129cfb.w53l1rs2zw.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\726b97ef-150c-4a17-828e-6bca3f129cfb.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\726b97ef-150c-4a17-828e-6bca3f129cfb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2002,7 +2746,7 @@
     },
     {
       "Route": "uploads/7b2dbcbc-e2b8-4346-b667-9703d5922141.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\7b2dbcbc-e2b8-4346-b667-9703d5922141.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\7b2dbcbc-e2b8-4346-b667-9703d5922141.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2039,7 +2783,7 @@
     },
     {
       "Route": "uploads/7b2dbcbc-e2b8-4346-b667-9703d5922141.w53l1rs2zw.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\7b2dbcbc-e2b8-4346-b667-9703d5922141.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\7b2dbcbc-e2b8-4346-b667-9703d5922141.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2083,8 +2827,90 @@
       ]
     },
     {
+      "Route": "uploads/91a9a777-e773-42cc-b069-b2d00a99d2d0.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\91a9a777-e773-42cc-b069-b2d00a99d2d0.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:10:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/91a9a777-e773-42cc-b069-b2d00a99d2d0.w53l1rs2zw.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\91a9a777-e773-42cc-b069-b2d00a99d2d0.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:10:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w53l1rs2zw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/91a9a777-e773-42cc-b069-b2d00a99d2d0.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
       "Route": "uploads/933640aa-a575-487f-81ca-68a4ec4d5be0.5u8kevkjm0.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\933640aa-a575-487f-81ca-68a4ec4d5be0.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\933640aa-a575-487f-81ca-68a4ec4d5be0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2129,7 +2955,7 @@
     },
     {
       "Route": "uploads/933640aa-a575-487f-81ca-68a4ec4d5be0.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\933640aa-a575-487f-81ca-68a4ec4d5be0.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\933640aa-a575-487f-81ca-68a4ec4d5be0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2166,7 +2992,7 @@
     },
     {
       "Route": "uploads/a4d91727-f1fa-449c-ac52-40ac6acd1de8.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\a4d91727-f1fa-449c-ac52-40ac6acd1de8.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\a4d91727-f1fa-449c-ac52-40ac6acd1de8.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2203,7 +3029,7 @@
     },
     {
       "Route": "uploads/a4d91727-f1fa-449c-ac52-40ac6acd1de8.w53l1rs2zw.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\a4d91727-f1fa-449c-ac52-40ac6acd1de8.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\a4d91727-f1fa-449c-ac52-40ac6acd1de8.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2248,7 +3074,7 @@
     },
     {
       "Route": "uploads/aaa3c66b-9c2b-409e-ba8a-13fa267e612d.e9bot3ompv.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\aaa3c66b-9c2b-409e-ba8a-13fa267e612d.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\aaa3c66b-9c2b-409e-ba8a-13fa267e612d.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2293,7 +3119,7 @@
     },
     {
       "Route": "uploads/aaa3c66b-9c2b-409e-ba8a-13fa267e612d.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\aaa3c66b-9c2b-409e-ba8a-13fa267e612d.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\aaa3c66b-9c2b-409e-ba8a-13fa267e612d.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2330,7 +3156,7 @@
     },
     {
       "Route": "uploads/be5d1635-7f7e-4f46-b652-67b0b844d8d3.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\be5d1635-7f7e-4f46-b652-67b0b844d8d3.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\be5d1635-7f7e-4f46-b652-67b0b844d8d3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2367,7 +3193,7 @@
     },
     {
       "Route": "uploads/be5d1635-7f7e-4f46-b652-67b0b844d8d3.y9n59rlvwd.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\be5d1635-7f7e-4f46-b652-67b0b844d8d3.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\be5d1635-7f7e-4f46-b652-67b0b844d8d3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2411,8 +3237,254 @@
       ]
     },
     {
+      "Route": "uploads/c544ac82-aa65-40ee-bdcd-2baf9bb3fee6.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\c544ac82-aa65-40ee-bdcd-2baf9bb3fee6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 09:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c544ac82-aa65-40ee-bdcd-2baf9bb3fee6.w53l1rs2zw.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\c544ac82-aa65-40ee-bdcd-2baf9bb3fee6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 09:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w53l1rs2zw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c544ac82-aa65-40ee-bdcd-2baf9bb3fee6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c5f45446-5157-4c67-8223-b1a3c5c895d7.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\c5f45446-5157-4c67-8223-b1a3c5c895d7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 09:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c5f45446-5157-4c67-8223-b1a3c5c895d7.w53l1rs2zw.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\c5f45446-5157-4c67-8223-b1a3c5c895d7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 09:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w53l1rs2zw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c5f45446-5157-4c67-8223-b1a3c5c895d7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ca3d440b-d770-40cb-85ee-c8debcb2a2ef.5u8kevkjm0.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\ca3d440b-d770-40cb-85ee-c8debcb2a2ef.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vRMxphtJUA5ptNzSR7PfFWfLGQL+ae6TiWnB9iBN1Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:13:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5u8kevkjm0"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ca3d440b-d770-40cb-85ee-c8debcb2a2ef.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vRMxphtJUA5ptNzSR7PfFWfLGQL+ae6TiWnB9iBN1Rw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ca3d440b-d770-40cb-85ee-c8debcb2a2ef.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\ca3d440b-d770-40cb-85ee-c8debcb2a2ef.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vRMxphtJUA5ptNzSR7PfFWfLGQL+ae6TiWnB9iBN1Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:13:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vRMxphtJUA5ptNzSR7PfFWfLGQL+ae6TiWnB9iBN1Rw="
+        }
+      ]
+    },
+    {
       "Route": "uploads/cbb9d1e4-e2b5-4b99-90e5-5cf2d6200a39.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\cbb9d1e4-e2b5-4b99-90e5-5cf2d6200a39.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\cbb9d1e4-e2b5-4b99-90e5-5cf2d6200a39.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2449,7 +3521,7 @@
     },
     {
       "Route": "uploads/cbb9d1e4-e2b5-4b99-90e5-5cf2d6200a39.w53l1rs2zw.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\cbb9d1e4-e2b5-4b99-90e5-5cf2d6200a39.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\cbb9d1e4-e2b5-4b99-90e5-5cf2d6200a39.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2493,8 +3565,90 @@
       ]
     },
     {
+      "Route": "uploads/d085c5ab-32df-4a99-a8bc-9d60fc32e8d1.37t61fur9r.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d085c5ab-32df-4a99-a8bc-9d60fc32e8d1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sUm4d/LdbUzz4PPcJt8VOK+dOXoie1qyvNfP5AsciYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:14:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37t61fur9r"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d085c5ab-32df-4a99-a8bc-9d60fc32e8d1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sUm4d/LdbUzz4PPcJt8VOK+dOXoie1qyvNfP5AsciYI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d085c5ab-32df-4a99-a8bc-9d60fc32e8d1.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d085c5ab-32df-4a99-a8bc-9d60fc32e8d1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sUm4d/LdbUzz4PPcJt8VOK+dOXoie1qyvNfP5AsciYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:14:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sUm4d/LdbUzz4PPcJt8VOK+dOXoie1qyvNfP5AsciYI="
+        }
+      ]
+    },
+    {
       "Route": "uploads/d16a8b51-0444-43d2-8fd2-ada9ccfb3f95.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\d16a8b51-0444-43d2-8fd2-ada9ccfb3f95.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d16a8b51-0444-43d2-8fd2-ada9ccfb3f95.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2531,7 +3685,7 @@
     },
     {
       "Route": "uploads/d16a8b51-0444-43d2-8fd2-ada9ccfb3f95.w53l1rs2zw.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\d16a8b51-0444-43d2-8fd2-ada9ccfb3f95.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d16a8b51-0444-43d2-8fd2-ada9ccfb3f95.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2575,8 +3729,90 @@
       ]
     },
     {
+      "Route": "uploads/d52614b5-85d9-4e5d-aeea-1b6d358cfe1f.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d52614b5-85d9-4e5d-aeea-1b6d358cfe1f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:45:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d52614b5-85d9-4e5d-aeea-1b6d358cfe1f.w53l1rs2zw.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d52614b5-85d9-4e5d-aeea-1b6d358cfe1f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 11:45:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w53l1rs2zw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d52614b5-85d9-4e5d-aeea-1b6d358cfe1f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vM/C8N+i/YCZ0rCUXXLNWRb+Aq9O9BQf4+RWpcgqMnM="
+        }
+      ]
+    },
+    {
       "Route": "uploads/d9a8826f-e169-47f6-8efb-38dac993d08c.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\d9a8826f-e169-47f6-8efb-38dac993d08c.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d9a8826f-e169-47f6-8efb-38dac993d08c.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2613,7 +3849,7 @@
     },
     {
       "Route": "uploads/d9a8826f-e169-47f6-8efb-38dac993d08c.y9n59rlvwd.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\d9a8826f-e169-47f6-8efb-38dac993d08c.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\d9a8826f-e169-47f6-8efb-38dac993d08c.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2658,7 +3894,7 @@
     },
     {
       "Route": "uploads/f6eebc22-c4a7-405e-8f14-2f8dafb0e409.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\f6eebc22-c4a7-405e-8f14-2f8dafb0e409.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\f6eebc22-c4a7-405e-8f14-2f8dafb0e409.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2695,7 +3931,7 @@
     },
     {
       "Route": "uploads/f6eebc22-c4a7-405e-8f14-2f8dafb0e409.w53l1rs2zw.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\f6eebc22-c4a7-405e-8f14-2f8dafb0e409.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\f6eebc22-c4a7-405e-8f14-2f8dafb0e409.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2740,7 +3976,7 @@
     },
     {
       "Route": "uploads/fce444e8-a8f0-44d9-8616-c88025c6e9d3.e9bot3ompv.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\fce444e8-a8f0-44d9-8616-c88025c6e9d3.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\fce444e8-a8f0-44d9-8616-c88025c6e9d3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2785,7 +4021,7 @@
     },
     {
       "Route": "uploads/fce444e8-a8f0-44d9-8616-c88025c6e9d3.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\fce444e8-a8f0-44d9-8616-c88025c6e9d3.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\fce444e8-a8f0-44d9-8616-c88025c6e9d3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2822,7 +4058,7 @@
     },
     {
       "Route": "uploads/fd56522f-d824-45e7-9573-e97b1d43c5b7.e9bot3ompv.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\fd56522f-d824-45e7-9573-e97b1d43c5b7.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\fd56522f-d824-45e7-9573-e97b1d43c5b7.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2867,7 +4103,7 @@
     },
     {
       "Route": "uploads/fd56522f-d824-45e7-9573-e97b1d43c5b7.png",
-      "AssetFile": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\wwwroot\\uploads\\fd56522f-d824-45e7-9573-e97b1d43c5b7.png",
+      "AssetFile": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\wwwroot\\uploads\\fd56522f-d824-45e7-9573-e97b1d43c5b7.png",
       "Selectors": [],
       "ResponseHeaders": [
         {

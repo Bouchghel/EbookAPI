@@ -38,8 +38,8 @@ export class BookEditComponent implements OnInit {
   // Initialisation du formulaire
   createForm(): void {
     this.editBookForm = this.fb.group({
-      title: ['', [Validators.required, Validators.minLength(3)]],
-      author: ['', [Validators.required, Validators.minLength(3)]],
+      title: ['', [Validators.required]],
+      author: ['', [Validators.required]],
       description: ['', Validators.required]
     });
   }

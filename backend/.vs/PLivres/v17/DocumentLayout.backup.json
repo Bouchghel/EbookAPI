@@ -1,62 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\",
+  "WorkspaceRootPath": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\service\\mappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:service\\mappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\service\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:service\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Migrations\\20241216161716_BookMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241216161716_BookMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\service\\mappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:service\\mappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\plivres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\plivres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:plivres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\source\\repos\\plivres\\migrations\\20241216144145_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\migrations\\20241216144145_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:migrations\\20241216144145_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|c:\\users\\ismail\\desktop\\ebookapp\\backend\\migrations\\20241216161716_bookmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4243EB-8280-4AD2-939B-1CD4064E3125}|PLivres.csproj|solutionrelative:migrations\\20241216161716_bookmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,183 +79,203 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T13:03:05.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CreateBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\DTOs\\CreateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\DTOs\\CreateBookDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CreateBookDto.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\DTOs\\CreateBookDto.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\DTOs\\CreateBookDto.cs",
               "RelativeToolTip": "DTOs\\CreateBookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:54:53.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\DTOs\\UpdateBookDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\UpdateBookDto.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\DTOs\\UpdateBookDto.cs",
-              "RelativeToolTip": "DTOs\\UpdateBookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:55:42.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADIAAAAgMzMzMzMiwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:37:40.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\appsettings.json",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-16T14:31:30.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20241216161716_BookMigration.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Migrations\\20241216161716_BookMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241216161716_BookMigration.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Migrations\\20241216161716_BookMigration.cs",
-              "RelativeToolTip": "Migrations\\20241216161716_BookMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:17:17.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MappingService.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Service\\MappingService.cs",
-              "RelativeDocumentMoniker": "Service\\MappingService.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Service\\MappingService.cs",
-              "RelativeToolTip": "Service\\MappingService.cs",
-              "ViewState": "AgIAAAkAAAAAzczMzEwxwBIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:11:15.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Controllers\\BookController.cs",
-              "ViewState": "AgIAAD0AAAAAzMzMzMwSwEUAAAAtAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:44:47.008Z",
+              "WhenOpened": "2024-12-16T14:37:40.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Service\\MapperProfile.cs",
-              "RelativeDocumentMoniker": "Service\\MapperProfile.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Service\\MapperProfile.cs",
-              "RelativeToolTip": "Service\\MapperProfile.cs",
-              "ViewState": "AgIAAAcAAAAAMzMzMzMmwAwAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:05:49.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAUAAAAAamZmZmbmvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-16T15:56:25.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Service\\BookService.cs",
+              "RelativeToolTip": "Service\\BookService.cs",
+              "ViewState": "AgIAAAQAAAAAMzMzMzMywA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:48:28.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:28:45.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\DTOs\\UpdateBookDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateBookDto.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\DTOs\\UpdateBookDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:55:42.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Service\\FileService.cs",
+              "RelativeDocumentMoniker": "Service\\FileService.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Service\\FileService.cs",
+              "RelativeToolTip": "Service\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:49:22.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "MappingService.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Service\\MappingService.cs",
+              "RelativeDocumentMoniker": "Service\\MappingService.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Service\\MappingService.cs",
+              "RelativeToolTip": "Service\\MappingService.cs",
+              "ViewState": "AgIAABgAAADA/////384wAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:11:15.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAAMAAABwzMzMzMwlwFUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:44:47.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "BookContext.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Data\\BookContext.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Data\\BookContext.cs",
               "RelativeDocumentMoniker": "Data\\BookContext.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Data\\BookContext.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Data\\BookContext.cs",
               "RelativeToolTip": "Data\\BookContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:36:26.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BookDto.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\DTOs\\BookDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\BookDto.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\DTOs\\BookDto.cs",
-              "RelativeToolTip": "DTOs\\BookDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:53:50.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAADwmZmZmZkFwA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:33:15.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PLivres.csproj",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\PLivres.csproj",
-              "RelativeDocumentMoniker": "PLivres.csproj",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\PLivres.csproj",
-              "RelativeToolTip": "PLivres.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T14:32:43.164Z",
-              "EditorCaption": ""
+              "DocumentIndex": 15,
+              "Title": "20241216161716_BookMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Migrations\\20241216161716_BookMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241216161716_BookMigration.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Migrations\\20241216161716_BookMigration.cs",
+              "RelativeToolTip": "Migrations\\20241216161716_BookMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:17:17.249Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "PLivres.csproj",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\PLivres.csproj",
+              "RelativeDocumentMoniker": "PLivres.csproj",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\PLivres.csproj",
+              "RelativeToolTip": "PLivres.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T14:32:43.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "20241216144145_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Migrations\\20241216144145_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Migrations\\20241216144145_InitialMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20241216144145_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\ISMAIL\\source\\repos\\PLivres\\Migrations\\20241216144145_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\ISMAIL\\Desktop\\EbookApp\\backend\\Migrations\\20241216144145_InitialMigration.cs",
               "RelativeToolTip": "Migrations\\20241216144145_InitialMigration.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
