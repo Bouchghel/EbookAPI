@@ -6,4 +6,5 @@ Ce projet représente une **API REST** pour la gestion d'une bibliothèque de li
 ## **📂 Architecture du projet**
 
 ### **Structure des dossiers**
-PLivres/ │ ├── Controllers/ # Contrôleurs API pour gérer les requêtes HTTP │ ├── BookController.cs │ ├── DTOs/ # Data Transfer Objects (DTOs) │ ├── CreateBookDto.cs │ ├── UpdateBookDto.cs │ └── BookDto.cs │ ├── Models/ # Entités du modèle de base de données │ └── Book.cs │ ├── Services/ # Services métier │ ├── IBookService.cs │ ├── BookService.cs │ ├── IBookMappingService.cs │ └── BookMappingService.cs │ ├── Data/ # Contexte de la base de données │ └── BookContext.cs │ ├── wwwroot/ # Répertoire public pour stocker les images │ └── uploads/ # Répertoire des images uploadées │ ├── appsettings.json # Configuration de l'application ├── Program.cs # Point d'entrée principal └── Startup.cs # Configuration des services
+
+![ArchitectureBackend](https://github.com/user-attachments/assets/dcccc07c-7aae-4220-aa1c-d74831678b7a)
