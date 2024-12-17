@@ -140,6 +140,6 @@ Swagger permet de tester directement les endpoints de votre API.
     ng serve
     ```
 
-## Ps:n'oublier pas de créer une BD : EbookDB (SQLSERVER)
+## NB:n'oublier pas de créer une BD : EbookDB (SQLSERVER)
 
 
