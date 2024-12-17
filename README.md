@@ -76,16 +76,16 @@ Configure les services et middleware nécessaires pour le bon fonctionnement de 
 
 Swagger permet de tester directement les endpoints de votre API.  
 
-### Ajouter :
-![AjouterUnLivre](https://github.com/user-attachments/assets/8442c2fa-59a9-43f9-be2b-5b506d55457a)  
-### Modifier :  
+### 1-Ajouter :  
+![ajouterLivre](https://github.com/user-attachments/assets/40226bac-40b7-4749-96bb-a8ef6dbdd67e)  
+### 2-Modifier :  
 ![Put](https://github.com/user-attachments/assets/339b1b0c-1207-4597-a4e6-9a4d000ca620)  
-### Supprimer :  
+### 3-Supprimer :  
 ![Delete](https://github.com/user-attachments/assets/9e5de054-043a-4b34-8ef2-ed12f7dda47c)  
-### Récupérer la liste complète des livres(par ordre) : 
+### 4-Récupérer la liste complète des livres(par ordre) : 
 ![getParOrdre](https://github.com/user-attachments/assets/9d620f9a-1005-40c2-8250-16ac7c4065cc)  
-### Rechercher des livres par titre ou auteur  
-![searchByTitleOrAuthor](https://github.com/user-attachments/assets/56afcd96-1dd7-49ac-988b-8876b6a8d462)
+### 5-Rechercher des livres par titre ou auteur  
+![searchByTitleOrAuthor](https://github.com/user-attachments/assets/56afcd96-1dd7-49ac-988b-8876b6a8d462)  
 
 ## **🖼️ Screenshots de l'application
 ### Liste des livres (par ordre) :  
